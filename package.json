@@ -1,0 +1,13 @@
+{
+    "name": "myo-greenhouse",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+        "mqtt": "^1.0.5",
+        "myojs": "^0.8.1"
+    },
+    "devDependencies": {},
+    "author": "Benjamin Cabé",
+    "license": "EPL"
+}
